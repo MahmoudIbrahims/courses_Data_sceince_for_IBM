@@ -16,3 +16,4 @@ final results:
 Please read the note book for information about the data and implementation of classifiers used.
 
 *Please note that results may be improved by engineering new features or using different hyper parameters ,I have tried just to create a simple prediction only for demonstrating use of different classifiers from scikit learn library .*
+![certificate Machine learning_page-0001](https://github.com/MahmoudIbrahims/courses_Data_sceince_for_IBM/assets/121377479/7bfa4a54-a6dd-4208-a2c7-aeb56d79de5e)
